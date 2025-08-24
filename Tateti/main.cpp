@@ -45,7 +45,7 @@ int main()
         if(validator3000(table, 1))
         {
             tablero(table);
-            cout << "Ganaste jugador 1!!! sos pijon :D "<<endl;
+            cout << "Ganaste jugador 1 felicidades!!! :D"<<endl;
             return 10;
         }
 
@@ -80,7 +80,7 @@ int main()
         if(validator3000(table, 2))
         {
             tablero(table);
-            cout << "Ganaste jugador 2!!! sos pijon :D "<<endl;
+            cout << "Ganaste jugador 2 felicidades!!! :D"<<endl;
             return 20;
         }
         if(emptyPleaces(table))
